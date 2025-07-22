@@ -1,0 +1,11 @@
+{
+  "name": "drugs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "dr":"curl http://www.twatac.net/api/dr.log > /Volumes/Flexo/WebDaw/www.twatac.mac/api/dr.log"
+  },
+  "author": "",
+  "license": "ISC"
+}
